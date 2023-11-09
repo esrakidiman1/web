@@ -1,0 +1,19 @@
+#k1{
+    background-color: rgb(234, 243, 243);
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+#k2{
+    background-color: rgb(149, 149, 229);
+    width: 100px;
+    height: 100px;
+    border: 4px;
+}
+
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:2em;
+    color: green;
+}
